@@ -23,6 +23,8 @@ public:
             auto [d,node]=pq.top();
             pq.pop();
 
+            if(d > dist[node])continue;
+            
             for(auto [t,s]:graph[node]){
 
                 if(d+s < dist[t]){
