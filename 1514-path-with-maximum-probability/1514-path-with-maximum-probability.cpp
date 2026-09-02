@@ -20,13 +20,15 @@ public:
             double maxip = it.first;
             int source =it.second;
 
+            if(maxip < prob[source])continue;
+
             if(source==end_node)return maxip;
             
             for(int i=0;i<graph[source].size();i++){
                 double newmaxi = maxip *graph[source][i].second;
 
                 if(newmaxi > prob[graph[source][i].first]){
-                    graph[source][i].second=newmaxi;
+                    prob[graph[source][i].first]=newmaxi;
                     pq.push({newmaxi,graph[source][i].first});
                 }
             }
