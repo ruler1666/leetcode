@@ -15,23 +15,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ruler1666/leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/ruler1666/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ruler1666/leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/ruler1666/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ruler1666/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ruler1666/leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/ruler1666/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ruler1666/leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/ruler1666/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ruler1666/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Array
 |  |
 | ------- |
+| [1514-path-with-maximum-probability](https://github.com/ruler1666/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ruler1666/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
