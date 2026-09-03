@@ -19,13 +19,9 @@ public:
                 if(mp[10]>=1 && mp[5]>=1){
                     mp[10]--;
                     mp[5]--;
-                    mp[20]++;
-                }else if(mp[5]>=3){
-                    mp[5]--;
-                    mp[5]--;
-                    mp[5]--;
 
-                    mp[20]++;
+                }else if(mp[5]>=3){
+                    mp[5]-=3;
                 }else{
                     return false;
                 }
