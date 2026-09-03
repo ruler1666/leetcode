@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ruler1666/leetcode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/ruler1666/leetcode/tree/master/0860-lemonade-change) |
 | [1514-path-with-maximum-probability](https://github.com/ruler1666/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ruler1666/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ruler1666/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ruler1666/leetcode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/ruler1666/leetcode/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ruler1666/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting
 |  |
