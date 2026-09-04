@@ -1,7 +1,6 @@
 class Solution {
 public:
     int maximumUnits(vector<vector<int>>& boxTypes, int truckSize) {
-        int count=0;
         int ans=0;
         int n = truckSize;
 
@@ -15,11 +14,14 @@ public:
             int k=pq.top().second;
             int m=pq.top().first;
 
-            while(k>0&&n>0){
-                ans+=m;
-                k--;
-                n--;
-            }
+            // while(k>0&&n>0){
+            //     ans+=m;
+            //     k--;
+            //     n--;
+            // }
+            int x=min(k,n);
+            ans+=x*m;
+            n-=x;
             pq.pop();
             
         }
