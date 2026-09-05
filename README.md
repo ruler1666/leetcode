@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ruler1666/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ruler1666/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ruler1666/leetcode/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/ruler1666/leetcode/tree/master/0605-can-place-flowers) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ruler1666/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ruler1666/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ruler1666/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Math
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ruler1666/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ruler1666/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ruler1666/leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/ruler1666/leetcode/tree/master/0409-longest-palindrome) |
