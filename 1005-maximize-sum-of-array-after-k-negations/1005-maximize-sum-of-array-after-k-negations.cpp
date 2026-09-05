@@ -9,7 +9,7 @@ public:
             pq.push(s);
         }
 
-        while(!pq.empty() &&k>0){
+        while(k>0){
             int m=pq.top();
             pq.pop();
             pq.push((-m));
