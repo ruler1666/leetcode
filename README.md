@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ruler1666/leetcode/tree/master/0409-longest-palindrome) |
+| [0763-partition-labels](https://github.com/ruler1666/leetcode/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ruler1666/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ruler1666/leetcode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/ruler1666/leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/ruler1666/leetcode/tree/master/0605-can-place-flowers) |
+| [0763-partition-labels](https://github.com/ruler1666/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/ruler1666/leetcode/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ruler1666/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ruler1666/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -98,9 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ruler1666/leetcode/tree/master/0409-longest-palindrome) |
+| [0763-partition-labels](https://github.com/ruler1666/leetcode/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ruler1666/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/ruler1666/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+## Two Pointers
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/ruler1666/leetcode/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
