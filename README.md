@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ruler1666/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/ruler1666/leetcode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ruler1666/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ruler1666/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/ruler1666/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ruler1666/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ruler1666/leetcode/tree/master/0948-bag-of-tokens) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ruler1666/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ruler1666/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ruler1666/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ruler1666/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ruler1666/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Math
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ruler1666/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/ruler1666/leetcode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ruler1666/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ruler1666/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0738-monotone-increasing-digits](https://github.com/ruler1666/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/ruler1666/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/ruler1666/leetcode/tree/master/0860-lemonade-change) |
