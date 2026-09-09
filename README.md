@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0738-monotone-increasing-digits](https://github.com/ruler1666/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ruler1666/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ruler1666/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/ruler1666/leetcode/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ruler1666/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0738-monotone-increasing-digits](https://github.com/ruler1666/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0763-partition-labels](https://github.com/ruler1666/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/ruler1666/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/ruler1666/leetcode/tree/master/0881-boats-to-save-people) |
