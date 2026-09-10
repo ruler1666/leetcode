@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ruler1666/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1024-video-stitching](https://github.com/ruler1666/leetcode/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/ruler1666/leetcode/tree/master/1029-two-city-scheduling) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ruler1666/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1514-path-with-maximum-probability](https://github.com/ruler1666/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ruler1666/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/ruler1666/leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ruler1666/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ruler1666/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1024-video-stitching](https://github.com/ruler1666/leetcode/tree/master/1024-video-stitching) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ruler1666/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/ruler1666/leetcode/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/ruler1666/leetcode/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ruler1666/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ruler1666/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1710-maximum-units-on-a-truck](https://github.com/ruler1666/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
