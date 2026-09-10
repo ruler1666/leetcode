@@ -12,8 +12,7 @@ public:
                 farthest=max(farthest , clips[j][1]);
                 j++;
             }
-            if(farthest==current)
-                return -1;
+            if(farthest==current)return -1;
 
             current=farthest;
             count++;
