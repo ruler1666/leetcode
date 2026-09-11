@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/ruler1666/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ruler1666/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1094-car-pooling](https://github.com/ruler1666/leetcode/tree/master/1094-car-pooling) |
 | [1514-path-with-maximum-probability](https://github.com/ruler1666/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ruler1666/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ruler1666/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1024-video-stitching](https://github.com/ruler1666/leetcode/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/ruler1666/leetcode/tree/master/1029-two-city-scheduling) |
+| [1094-car-pooling](https://github.com/ruler1666/leetcode/tree/master/1094-car-pooling) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ruler1666/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1514-path-with-maximum-probability](https://github.com/ruler1666/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ruler1666/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/ruler1666/leetcode/tree/master/0948-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ruler1666/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/ruler1666/leetcode/tree/master/1029-two-city-scheduling) |
+| [1094-car-pooling](https://github.com/ruler1666/leetcode/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/ruler1666/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Two Pointers
 |  |
@@ -165,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ruler1666/leetcode/tree/master/0881-boats-to-save-people) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/ruler1666/leetcode/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/ruler1666/leetcode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
