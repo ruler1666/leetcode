@@ -14,14 +14,10 @@ public:
 
             for(int i=0;i<groupSize;i++){
                 int card = k + i;
-
-                if(mp[card] == 0)
-                    return false;
-
+                if(mp[card] == 0) return false;
                 mp[card]--;
-
-                if(mp[card] == 0)
-                    mp.erase(card);
+                if(mp[card] == 0)mp.erase(card);
+                    
             }
         }
         return true;
