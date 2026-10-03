@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ruler1666/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/ruler1666/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ruler1666/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ruler1666/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ruler1666/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/ruler1666/leetcode/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/ruler1666/leetcode/tree/master/0763-partition-labels) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ruler1666/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/ruler1666/leetcode/tree/master/1094-car-pooling) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ruler1666/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ruler1666/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
