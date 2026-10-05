@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ruler1666/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0409-longest-palindrome](https://github.com/ruler1666/leetcode/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/ruler1666/leetcode/tree/master/0763-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/ruler1666/leetcode/tree/master/0856-score-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ruler1666/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
@@ -186,8 +187,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ruler1666/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ruler1666/leetcode/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ruler1666/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ruler1666/leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
