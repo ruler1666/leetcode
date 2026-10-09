@@ -4,10 +4,7 @@ public:
         unordered_map<int,int>mp1,mp2;
         vector<int>ans;
         int n=A.size();
-        
-        for(int i=0;i<A.size();i++){
-            mp1[A[i]]=i;
-        }
+
         for(int i=0;i<B.size();i++){
             mp2[B[i]]=i;
         }
