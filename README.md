@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/ruler1666/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ruler1666/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/ruler1666/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ruler1666/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ruler1666/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ruler1666/leetcode/tree/master/0409-longest-palindrome) |
 | [0763-partition-labels](https://github.com/ruler1666/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/ruler1666/leetcode/tree/master/0846-hand-of-straights) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ruler1666/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ruler1666/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ruler1666/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ruler1666/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ruler1666/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
