@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ruler1666/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/ruler1666/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ruler1666/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ruler1666/leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ruler1666/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/ruler1666/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ruler1666/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ruler1666/leetcode/tree/master/0070-climbing-stairs) |
 | [0738-monotone-increasing-digits](https://github.com/ruler1666/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ruler1666/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ruler1666/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ruler1666/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
