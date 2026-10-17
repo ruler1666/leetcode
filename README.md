@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ruler1666/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ruler1666/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1024-video-stitching](https://github.com/ruler1666/leetcode/tree/master/1024-video-stitching) |
+| [1137-n-th-tribonacci-number](https://github.com/ruler1666/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ruler1666/leetcode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Math
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ruler1666/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ruler1666/leetcode/tree/master/0509-fibonacci-number) |
 | [0738-monotone-increasing-digits](https://github.com/ruler1666/leetcode/tree/master/0738-monotone-increasing-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/ruler1666/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ruler1666/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ruler1666/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ruler1666/leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/ruler1666/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
